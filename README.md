@@ -8,7 +8,7 @@
   <img align="center" alt="Thales-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thales-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thales-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Thales-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/993973561607852073/1023348857599447070/unknown.png">
+  <img align="right" alt="Thales-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/993973561607852073/1023642080192512082/imagem_2022-09-25_140621743-removebg-preview.png">
 </div>
   
   ##
