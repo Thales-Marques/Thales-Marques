@@ -9,6 +9,7 @@
   <img align="center" alt="Thales-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thales-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thales-GIT" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Thales-GIT" height="30" width="40" src="https://icongr.am/devicon/amazonwebservices-original.svg?size=128&color=currentColor">
   <img align="right" alt="Thales-pic" height="195" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/993973561607852073/1023642080192512082/imagem_2022-09-25_140621743-removebg-preview.png">
 </div>
   
